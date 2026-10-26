@@ -1,0 +1,7 @@
+# compiled cleaner (rebuilt by the wrapper on demand)
+/zig-cache-prune
+# flock file
+.zig-cache-prune.lock
+# zig build artifacts
+*.o
+zig-cache-prune.o
